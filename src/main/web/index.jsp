@@ -29,5 +29,15 @@
             <h1>我的第一个 Bootstrap 页面</h1>
             <p>这是一些文本。</p>
         </div>
+        <form id="registerform">
+            <table>
+                <tr>
+                    <td></td>
+                </tr>
+            </table>
+        </form>
+        <form>
+            <table></table>
+        </form>
     </body>
 </html>
